@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WizardWorks.Squares.API.props" />
+</Project>

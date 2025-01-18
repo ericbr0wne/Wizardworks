@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Position": {
+      "X": 0,
+      "Y": 0
+    },
+    "Color": "#FF00FF"
+  },
+  {
+    "Id": 2,
+    "Position": {
+      "X": 1,
+      "Y": 0
+    },
+    "Color": "#FFFF00"
+  },
+  {
+    "Id": 3,
+    "Position": {
+      "X": 0,
+      "Y": 1
+    },
+    "Color": "#FF0000"
+  },
+  {
+    "Id": 4,
+    "Position": {
+      "X": 1,
+      "Y": 1
+    },
+    "Color": "#FFFF00"
+  },
+  {
+    "Id": 5,
+    "Position": {
+      "X": 1,
+      "Y": 1
+    },
+    "Color": "#FF0000"
+  },
+  {
+    "Id": 6,
+    "Position": {
+      "X": 2,
+      "Y": 1
+    },
+    "Color": "#0000FF"
+  },
+  {
+    "Id": 7,
+    "Position": {
+      "X": 0,
+      "Y": 2
+    },
+    "Color": "#FF0000"
+  }
+]

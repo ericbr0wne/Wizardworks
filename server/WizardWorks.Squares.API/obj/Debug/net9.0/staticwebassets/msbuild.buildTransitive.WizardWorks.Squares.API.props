@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WizardWorks.Squares.API.props" />
+</Project>
