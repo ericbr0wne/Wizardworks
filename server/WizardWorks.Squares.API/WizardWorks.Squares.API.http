@@ -1,0 +1,6 @@
+@WizardWorks.Squares.API_HostAddress = http://localhost:5291
+
+GET {{WizardWorks.Squares.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
