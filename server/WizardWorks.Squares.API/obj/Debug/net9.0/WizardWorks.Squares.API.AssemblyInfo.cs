@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WizardWorks.Squares.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a748e6b6def5c021479123108ac2672e21bc8d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("WizardWorks.Squares.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WizardWorks.Squares.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

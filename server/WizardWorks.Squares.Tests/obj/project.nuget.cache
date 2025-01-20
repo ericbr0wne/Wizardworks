@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g7oxf9h4Eyg=",
+  "dgSpecHash": "d3wVwnXUV48=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ericb\\source\\repos\\Wizardworks\\server\\WizardWorks.Squares.Tests\\WizardWorks.Squares.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ericb\\source\\repos\\Wizardworks-programmeringsuppgift\\server\\WizardWorks.Squares.Tests\\WizardWorks.Squares.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ericb\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\ericb\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
